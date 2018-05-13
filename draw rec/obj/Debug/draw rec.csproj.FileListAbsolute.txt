@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\Visual Studio 2008\Projects\draw rec\draw rec\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2008\Projects\draw rec\draw rec\bin\Debug\draw rec.exe
+C:\Users\HP\Documents\Visual Studio 2008\Projects\draw rec\draw rec\bin\Debug\draw rec.pdb
+C:\Users\HP\Documents\Visual Studio 2008\Projects\draw rec\draw rec\obj\Debug\draw rec.exe
+C:\Users\HP\Documents\Visual Studio 2008\Projects\draw rec\draw rec\obj\Debug\draw rec.pdb
